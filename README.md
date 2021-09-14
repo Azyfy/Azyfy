@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/25674257/132956483-7a2d1080-368b-4ff3-8323-ddfbf264c975.gif" height=250 width=900 />
 
-Writing bugs in the code and the removing them
+Writing bugs in the code and then removing them
 
 ##### My npm/npx introduction card
 ```
