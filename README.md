@@ -2,9 +2,9 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/25674257/132956483-7a2d1080-368b-4ff3-8323-ddfbf264c975.gif" height=250 width=900 />
 
+Writing bugs in the code and the removing them
 
-
-My npm/npx introduction card:
+##### My npm/npx introduction card
 ```
 $ npx adi-card
 ```
@@ -18,11 +18,13 @@ Some of the technologies and tools that I use:
 <img src="https://img.shields.io/badge/-CSS3-blue?style=plastic&logo=CSS3&logoColor=white&labelColor=black" />
 <br>
 <img src="https://img.shields.io/badge/-React-blue?style=plastic&logo=React&logoColor=white&labelColor=black" />
+<img src="https://img.shields.io/badge/-React Native-blue?style=plastic&logo=React&logoColor=white&labelColor=black" />
 <img src="https://img.shields.io/badge/-Redux-blue?style=plastic&logo=Redux&logoColor=white&labelColor=black" />
 <img src="https://img.shields.io/badge/-TypeScript-blue?style=plastic&logo=TypeScript&logoColor=white&labelColor=black" />
 <br>
 <img src="https://img.shields.io/badge/-NodeJS-blue?style=plastic&logo=Node.js&logoColor=white&labelColor=black" />
 <img src="https://img.shields.io/badge/-Express-blue?style=plastic&logo=Express&logoColor=white&labelColor=black" />
+<img src="https://img.shields.io/badge/-GraphQL-blue?style=plastic&logo=GraphQL&logoColor=white&labelColor=black" />
 <img src="https://img.shields.io/badge/-MongoDB-blue?style=plastic&logo=MongoDB&logoColor=white&labelColor=black" />
 <br>
 <img src="https://img.shields.io/badge/-Jest-blue?style=plastic&logo=Jest&logoColor=white&labelColor=black" />
